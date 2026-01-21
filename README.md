@@ -1,5 +1,11 @@
-# welcome-page
-# Welcome to my Git Hub page
-# Name : Megha M
-# Company name : IMTDA Infotech Private Limited.
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome Page</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Page</h1>
+    <h2>Megha M</h2>
+    <p>Company: IMDTA Infotech Pvt Ltd</p>
+</body>
+</html>
